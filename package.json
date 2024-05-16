@@ -1,0 +1,26 @@
+{
+  "name": "hakaton",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "js-cookie": "^3.0.5",
+    "pinia": "^2.1.7",
+    "vite-svg-loader": "^5.1.0",
+    "vue": "^3.3.13",
+    "vue-flag-icon": "^2.1.0",
+    "vue-router": "^4.3.0",
+    "vue-toastification": "^2.0.0-rc.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "sass": "^1.75.0",
+    "vite": "^5.2.8"
+  }
+}
